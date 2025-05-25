@@ -36,7 +36,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Listen ! With a focus on quality and design, we curate products that enhance your LIFE.</p>",
+            "text": "<p>Wait a minitue! With a focus on quality and design, we curate products that enhance your LIFE.</p>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
